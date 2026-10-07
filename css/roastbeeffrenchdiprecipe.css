@@ -1,0 +1,68 @@
+body {
+    background-color: bisque; /*Bisque and dark brown used to use the colors of a french dip */
+    background-image : url('../images/FrenchDipBackgroundImage.png'); /*Background image also included to meet assignment specifications. Screenshot taken by myself, Echo Reid.*/
+}
+
+h1 {
+    font-family: "Lucida Handwriting"; 
+    color: #2e1c00;
+}
+
+h2 {
+    font-family: Verdana; 
+    color: #2e1c00;
+}
+
+h3 {
+    font-family: Arial; 
+    color: #2e1c00;
+    font-weight: 1000;
+}
+
+p {
+    font-family: Arial; 
+    color: #5e3800;
+}
+
+ul {
+    font-family: "Courier New"; 
+    color: #5e3800;
+}
+
+ol {
+    font-family: "Lucida Console"; 
+    color: #5e3800;
+}
+
+figcaption {
+    font-family: "Times New Roman"; 
+    color: #5e3800;
+}
+
+legend {
+    font-family: 'Courier New', Courier, monospace; 
+    color: #5e3800;
+}
+
+fieldset, .ratinglable {
+    background-color: #5e3800;
+    font-family: Garamond; 
+    color: bisque;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.wrapper div{
+    flex:1;
+}
+
+.footer {
+    display: flex; 
+    justify-content: space-between;
+}
+
+/*div {
+    border: double cornflowerblue;
+}*/
