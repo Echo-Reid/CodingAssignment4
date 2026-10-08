@@ -1,0 +1,101 @@
+body
+{
+    background-image: url("../images/Baklava_Recipe_Background.jpg"); /*This was a CC0 image that required no attribution. Here is the link: https://www.publicdomainpictures.net/en/view-image.php?image=26031&picture=light-wood-texture*/
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #291000;
+    font-size: 14.2px;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 4px 3px 2px #2910007a;
+    text-decoration-line: underline;
+    text-indent: 10px;
+    color: #792200;
+    font-size: 50px;
+}
+
+h2, h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 2px 3px 2px #552d008e;
+    text-decoration-line: underline;
+    text-indent: 10px;
+    color: #470000;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-indent: 10px;
+    font-size: 20px;
+}
+
+img
+{
+    border: 5px #571e04 solid;
+}
+
+figure {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: overline;
+}
+
+ul {
+    font-weight: 700;
+    margin: 5px;
+}
+
+li {
+    margin: 5px;
+}
+
+ol {
+    font-weight: 700;
+    margin: 5px;
+}
+
+hr {
+    color: #220d00;
+}
+
+span {
+    font-style: oblique;
+}
+
+input {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    color: #220d00;
+}
+
+fieldset {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 3px 3px 3px #583d2c9f;
+    background-color: #b3886b;
+    border: solid #5f2b0b;
+    text-indent: 10px;
+    color: #220d00;
+    width: 300px;
+    height: 50px;
+}
+
+legend {
+    background-color: #d3b7a5;
+    border: solid #5f2b0b;
+    font-weight: 800;
+}
+ 
+.rate {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 61, 0);
+    font-style: oblique;
+    font-weight: 800;
+    font-size: 25px;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.wrapper div {
+    flex: 1;
+}
