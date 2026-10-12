@@ -1,0 +1,35 @@
+/* PLEASE DON"T DELETE THIS FILE */
+
+body
+{
+
+}
+
+h1 {
+
+}
+
+h2, h3 {
+
+}
+
+p {
+
+}
+
+img
+{
+
+}
+
+figure {
+
+}
+
+.wrapper {
+    display: flex;
+}
+
+.wrapper div {
+    flex: 1;
+}
